@@ -2,5 +2,5 @@
 
 ## Hi, I'm Shingo
 
-- Project Assistant Professor in JSK Laboratory, The University of Tokyo
+- Project Assistant Professor in JSK Laboratory, UTokyo
 - Major: Robotics
