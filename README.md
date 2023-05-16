@@ -2,5 +2,5 @@
 
 ## Hi, I'm Shingo
 
-- Project Assistant Professor in JSK Laboratory, UTokyo
+- Robotics Software Engineer at GITAI Inc.
 - Major: Robotics
